@@ -77,3 +77,63 @@ div.otherNewsSection {
   font-size: 20px;
   margin-bottom: 8px;
 }
+
+#sidebar {
+  text-align: left;
+}
+
+div .news {
+  display: flex;
+  margin-bottom: 0px;
+}
+
+div .title {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 2px;
+}
+
+.num {
+  padding: 1px 8px 1px 8px;
+  margin: 0px 10px 10px 0px;
+  background-color: #0080ff;
+  color: white;
+}
+
+
+a:link,
+a:visited {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div .mostView {
+  margin: 20px 0px 20px 0px;
+}
+
+div .hotTopic {
+  margin: 20px 0px 20px 0px;
+}
+
+div .express {
+  margin: 20px 0px 20px 0px;
+}
+
+.expressTitle {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  letter-spacing: 2px;
+  margin-bottom: 8px;
+}
+
+
+.smallTitle {
+  font-size: 12px;
+  color: #BEBEBE;
+}
