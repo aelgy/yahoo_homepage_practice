@@ -137,3 +137,31 @@ div .express {
   font-size: 12px;
   color: #BEBEBE;
 }
+
+div .cardBody {
+  background-color: #BEBEBE;
+  padding: 8px;
+}
+
+h5.card-title {
+  margin-bottom: 0px;
+}
+
+div .cardBodyContent {
+  display: flex;
+  margin: 5px 0px;
+}
+
+div .card-body {
+  padding: 8px;
+}
+
+p .cardBodyWord {
+  font-size: 12px;
+}
+
+img.cardBodyImage {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
